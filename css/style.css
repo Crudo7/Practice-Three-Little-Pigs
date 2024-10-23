@@ -31,3 +31,14 @@ p{
         margin-right: auto;
         width: 250px;
 }
+
+.icon{
+    width: 50px;
+}
+
+.footerImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+}
