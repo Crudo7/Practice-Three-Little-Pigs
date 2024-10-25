@@ -37,7 +37,7 @@ p{
 }
 
 .footerImgDos{
-    
+    display: block;
     margin-left: auto;
     margin-right: auto;
     width: 450px;
